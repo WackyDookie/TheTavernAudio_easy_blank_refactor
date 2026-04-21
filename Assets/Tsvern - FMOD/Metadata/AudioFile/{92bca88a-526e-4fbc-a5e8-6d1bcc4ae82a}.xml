@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{92bca88a-526e-4fbc-a5e8-6d1bcc4ae82a}">
+		<property name="assetPath">
+			<value>Tavern/Player/Ply - Jump.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70c05bd6-8d93-4dc6-b2b8-648e73fbab01}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{33e6b171-4ff1-4b7b-863c-64c82cb3b3ec}">
+		<property name="assetPath">
+			<value>Tavern/Ambience/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70c05bd6-8d93-4dc6-b2b8-648e73fbab01}</destination>
+		</relationship>
+	</object>
+</objects>

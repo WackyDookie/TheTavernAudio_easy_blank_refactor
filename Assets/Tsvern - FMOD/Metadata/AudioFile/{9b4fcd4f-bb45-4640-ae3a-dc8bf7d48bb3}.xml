@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9b4fcd4f-bb45-4640-ae3a-dc8bf7d48bb3}">
+		<property name="assetPath">
+			<value>Tavern/Player/Grass/Ply - Land - Grass.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70c05bd6-8d93-4dc6-b2b8-648e73fbab01}</destination>
+		</relationship>
+	</object>
+</objects>
