@@ -117,6 +117,9 @@
 		<property name="pitch">
 			<value>9</value>
 		</property>
+		<relationship name="triggerConditions">
+			<destination>{5b85605c-4bf0-4f62-9ec8-4251f50f4aeb}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{852d9355-fcf8-4798-b91b-346756ebed06}</destination>
 		</relationship>
@@ -131,6 +134,9 @@
 		<property name="pitch">
 			<value>9</value>
 		</property>
+		<relationship name="triggerConditions">
+			<destination>{6c4164b2-aaba-4160-abbf-98e5af284fba}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{9fed4be7-3a3c-4e4f-a2fb-99bea5c12687}</destination>
 		</relationship>
@@ -178,6 +184,28 @@
 	</object>
 	<object class="MixerBusPanner" id="{fa6e7824-aaaa-4229-b658-5d82a50d9606}" />
 	<object class="MixerBusFader" id="{2c75937c-b3fa-4755-9eae-6416f4f1f05e}" />
+	<object class="ParameterCondition" id="{5b85605c-4bf0-4f62-9ec8-4251f50f4aeb}">
+		<property name="minimum">
+			<value>0</value>
+		</property>
+		<property name="maximum">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{27c0856e-daf3-40ce-9d5d-55524f9245d6}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterCondition" id="{6c4164b2-aaba-4160-abbf-98e5af284fba}">
+		<property name="minimum">
+			<value>0</value>
+		</property>
+		<property name="maximum">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{27c0856e-daf3-40ce-9d5d-55524f9245d6}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{df4a0504-df2b-4582-a036-60e86edf4966}">
 		<relationship name="effects">
 			<destination>{6e8e21d4-e7d8-4039-85a6-3dfa9ad3e56e}</destination>
