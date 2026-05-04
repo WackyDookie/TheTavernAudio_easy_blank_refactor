@@ -70,7 +70,7 @@ MonoBehaviour:
   Path: Assets/Tsvern - FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639130029483232344
+  lastModified: 639135250439379046
   FileSizes:
   - Name: Desktop
     Value: 5045792
@@ -145,7 +145,7 @@ MonoBehaviour:
   Path: Assets/Tsvern - FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639130029483247634
+  lastModified: 639135250439413534
   FileSizes:
   - Name: Desktop
     Value: 1338
@@ -235,7 +235,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -4478650798696321417}
   cacheVersion: 131859
-  cacheTime: 639130029483247634
+  cacheTime: 639135250439413534
   SerializableEventsDict:
   - key: event:/amb_tavern
     index: 0
