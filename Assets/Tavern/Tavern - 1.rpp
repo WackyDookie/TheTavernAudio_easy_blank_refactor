@@ -1,0 +1,734 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1778000561
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 12.85911208940595 0 0
+  VZOOMEX 6 76
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\kcichons\Desktop\Tavern\Ambience\Amb - Forest.flac"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    Y2FsZhgAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 120 0
+  SELECTION2 120 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {95E99F12-AEBF-4EF5-B1EC-067F307EF2C6}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {AE17B35D-EE9E-46E3-AE5D-7D49E236FF33}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {6FC5FE3D-6DE7-4F14-8946-DBDA6B2D48B3}
+    NAME 321220__ralexpdx__my-tavern-1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.27991910429543 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6FC5FE3D-6DE7-4F14-8946-DBDA6B2D48B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 232.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83BE452B-7ACC-4F18-9A06-52A97D07BE49}
+      IID 71
+      NAME 475505__o_ciz__bar-pub-tavern_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DDD4B7B-2FFC-430F-A63E-DE7A1B3C5FC8}
+      <SOURCE WAVE
+        FILE "475505__o_ciz__bar-pub-tavern_1.wav"
+      >
+    >
+  >
+  <TRACK {9925BD6B-1E9E-4052-BED3-1D0ED412D648}
+    NAME 104957__glaneur-de-sons__petit-feu-little-fire-1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.19924431591614 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9925BD6B-1E9E-4052-BED3-1D0ED412D648}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F5F5B5F-35C8-49BD-84D3-69A335E3228A}
+      IID 8
+      NAME 104957__glaneur-de-sons__petit-feu-little-fire-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F245D3F5-11B1-4B97-B48A-1E9F3262C21E}
+      <SOURCE WAVE
+        FILE "104957__glaneur-de-sons__petit-feu-little-fire-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F88B8D2-7142-473B-98DD-C989118C0D4B}
+      IID 8
+      NAME 104957__glaneur-de-sons__petit-feu-little-fire-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61DA1073-C2D1-4395-B4AC-14CB211CD3C6}
+      <SOURCE SECTION
+        LENGTH 3
+        STARTPOS 0.5
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "104957__glaneur-de-sons__petit-feu-little-fire-1.wav"
+        >
+      >
+    >
+  >
+  <TRACK {CB88568D-D469-4849-A64D-6AB78C786254}
+    NAME 413911__felixblume__rythmic-footsteps-over-wood-floor
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.80486268724076 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CB88568D-D469-4849-A64D-6AB78C786254}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.01
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.01 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70D7F708-81A5-42BA-A654-DD90C62BC900}
+      IID 25
+      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99425DBE-820D-4851-B0EC-FCD4A7E4B23F}
+      <SOURCE WAVE
+        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.51
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01 1 1 0 0
+      FADEOUT 1.1 0.01 0.01 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C545FA60-132B-4DA9-91CC-FFCE9638DC48}
+      IID 25
+      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.99
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F807BB7-48D5-4739-82A7-6C8B3545EFEB}
+      <SOURCE WAVE
+        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4B17E54-BDDE-48C9-BF30-61B322BA9587}
+      IID 25
+      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9918FEF0-8462-42A8-BC5C-364FEA99497F}
+      <SOURCE WAVE
+        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.25826883266094
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0273A193-24A0-4E59-AA1D-8DBDCE760D15}
+      IID 25
+      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 20.72152432819619
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C9D89C9-05EE-4D9B-A303-8BDAF93F4BEA}
+      <SOURCE WAVE
+        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
+      >
+    >
+  >
+  <TRACK {B807C908-DC38-4BDA-8F8D-943D4EF22FFC}
+    NAME 813622__securesubset__footsteps-stone-rock-concrete-cement
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.41096001966125 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B807C908-DC38-4BDA-8F8D-943D4EF22FFC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA394C8B-C764-4C18-BFA8-739166A46173}
+      IID 26
+      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAF33F56-8F5C-441E-9A59-50B55F7CA52A}
+      <SOURCE WAVE
+        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECB0D5F3-6275-47EC-99C2-C44F47731B95}
+      IID 26
+      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2983E761-13E0-4A74-BB7C-09478432377B}
+      <SOURCE WAVE
+        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C404BA73-5664-405B-8286-41871D8B4FE2}
+      IID 26
+      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57A1BF67-C4A8-4944-B339-FEDF61AA3E83}
+      <SOURCE WAVE
+        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
+      >
+    >
+  >
+  <TRACK {F70239B8-F469-4B6E-A578-3455361EC1A7}
+    NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F70239B8-F469-4B6E-A578-3455361EC1A7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A663BB3A-1EE9-44CD-9BF7-B477684BCFFA}
+      IID 27
+      NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1A74F65-B85B-41CF-B139-DEC2367438E1}
+      <SOURCE WAVE
+        FILE "530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4C62CAE-3A3C-4009-8FF2-1D0896ACD833}
+      IID 27
+      NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6303C483-8052-4F44-9940-ABBEA33E5BA0}
+      <SOURCE WAVE
+        FILE "530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD8AD462-7C4F-4574-87B2-0FBBDC753BEB}
+      IID 27
+      NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26077F2F-6F24-4DD1-8E4A-CACAF693DDAE}
+      <SOURCE WAVE
+        FILE "530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCAD86B0-7769-44A5-BE99-9D335F272C49}
+      IID 27
+      NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B838050-BFB8-43E7-8BC0-5FDB1A097C91}
+      <SOURCE WAVE
+        FILE "530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav"
+      >
+    >
+  >
+  <TRACK {C61D1768-7F67-48CA-9E35-185D87095417}
+    NAME 810428__klankbeeld__park-forest-loonse-en-drunense-duinen-netherlands-1125-am-150410_0602
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C61D1768-7F67-48CA-9E35-185D87095417}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 120
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9959DFB6-D130-490D-859F-876BE41C855B}
+      IID 91
+      NAME 810428__klankbeeld__park-forest-loonse-en-drunense-duinen-netherlands-1125-am-150410_0602.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C2E91E1-B6EC-44A0-A406-9C1A287C77A2}
+      <SOURCE FLAC
+        FILE "810428__klankbeeld__park-forest-loonse-en-drunense-duinen-netherlands-1125-am-150410_0602.flac"
+      >
+    >
+  >
+  <TRACK {7FB1329C-A7E4-4BB2-AB33-7B35255A8BD4}
+    NAME 744710__letterborne__forest_footsteps_6x
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7FB1329C-A7E4-4BB2-AB33-7B35255A8BD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.66043083900227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA848494-8CBA-4888-95BD-170DE10AC536}
+      IID 92
+      NAME 744710__letterborne__forest_footsteps_6x.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61F939D2-9B05-4E2E-8B31-63F5FEA6EAAF}
+      <SOURCE WAVE
+        FILE "C:\Users\kcichons\Downloads\744710__letterborne__forest_footsteps_6x.wav"
+      >
+    >
+  >
+  <TRACK {69945C45-AE20-426A-8903-E9563EC17C3C}
+    NAME 446094__sophiemezam__footsteps3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {69945C45-AE20-426A-8903-E9563EC17C3C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 38.78
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B05E02EE-C21D-4AEB-B357-3419E0A0CAEC}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C79FE41-7698-4312-B4B9-AA9AA216C7D3}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+  >
+  <TRACK {0D42B855-8DA0-4849-A1AB-7364E1038C8D}
+    NAME 547994__rico_casazza__footstep-marble
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0D42B855-8DA0-4849-A1AB-7364E1038C8D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.69
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B365AB9-0E08-4FA7-972F-FA1521B98D54}
+      IID 103
+      NAME 547994__rico_casazza__footstep-marble.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2A23A81-F3CB-4D9E-9BAB-46E9EB30E024}
+      <SOURCE WAVE
+        FILE "C:\Users\kcichons\Downloads\547994__rico_casazza__footstep-marble.wav"
+      >
+    >
+  >
+  <TRACK {B763F8A4-AEF7-4E7C-857E-415B4F5975B0}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B763F8A4-AEF7-4E7C-857E-415B4F5975B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
