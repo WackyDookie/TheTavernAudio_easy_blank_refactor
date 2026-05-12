@@ -5,7 +5,7 @@
 			<value>amb_forest</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{7b1a4556-a484-44bd-83c6-030ee19dea93}</destination>
@@ -116,7 +116,6 @@
 	<object class="MixerBusEffectChain" id="{897343a5-9744-4ebc-9fde-17fdcccdbeba}">
 		<relationship name="effects">
 			<destination>{b5ba51b6-0918-4838-9097-bc73d1865aef}</destination>
-			<destination>{c16cea54-e2a0-4413-a20c-bbff118181a3}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{823a1204-4741-4f27-ace5-197a0fc1e589}" />
@@ -128,6 +127,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{3b050734-0350-4949-8256-ed67283d52a1}" />
 	<object class="MixerBusFader" id="{b5ba51b6-0918-4838-9097-bc73d1865aef}" />
-	<object class="SpatialiserEffect" id="{c16cea54-e2a0-4413-a20c-bbff118181a3}" />
 	<object class="MixerBusFader" id="{c53c238e-47fc-4cc5-bbae-e7a9fbc3d936}" />
 </objects>
