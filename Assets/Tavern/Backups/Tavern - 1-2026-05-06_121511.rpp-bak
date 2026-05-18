@@ -1,12 +1,11 @@
-<REAPER_PROJECT 0.1 "7.69/win64" 1779099968 0
+<REAPER_PROJECT 0.1 "6.81/win64" 1778000561
   <NOTES 0 2
   >
-  RIPPLE 0 0
-  GROUPOVERRIDE 0 0 0 0
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
-  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -14,12 +13,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1 0
+  TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 140.75532579320281 0 0
-  VZOOMEX 6 385
+  ZOOM 12.85911208940595 0 0
+  VZOOMEX 6 76
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -39,7 +38,6 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
-  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -52,26 +50,22 @@
   LOCK 1
   <METRONOME 6 2
     VOL 0.25 0.125
-    BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" "" "" ""
-    SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0 ""
-    SPLDEF 3 440 "" 0 ""
-    PATTERN 0 169
-    PATTERNSTR ABBB
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4 0
+  TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 7.5
-  SELECTION2 0 7.5
+  SELECTION 120 0
+  SELECTION2 120 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -94,9 +88,6 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
-  RULERHEIGHT 86 86
-  RULERLANE 1 4 "" 0 -1
-  RULERLANE 2 8 "" 0 -1
   <PROJBAY
   >
   <TRACK {6FC5FE3D-6DE7-4F14-8946-DBDA6B2D48B3}
@@ -110,12 +101,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -157,12 +147,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -231,12 +220,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -344,12 +332,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -435,12 +422,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -543,17 +529,16 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -570,7 +555,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9959DFB6-D130-490D-859F-876BE41C855B}
       IID 91
       NAME 810428__klankbeeld__park-forest-loonse-en-drunense-duinen-netherlands-1125-am-150410_0602.flac
@@ -595,12 +580,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -627,7 +611,7 @@
       CHANMODE 0
       GUID {61F939D2-9B05-4E2E-8B31-63F5FEA6EAAF}
       <SOURCE WAVE
-        FILE "744710__letterborne__forest_footsteps_6x.wav"
+        FILE "C:\Users\kcichons\Downloads\744710__letterborne__forest_footsteps_6x.wav"
       >
     >
   >
@@ -642,12 +626,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -689,12 +672,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -721,27 +703,26 @@
       CHANMODE 0
       GUID {B2A23A81-F3CB-4D9E-9BAB-46E9EB30E024}
       <SOURCE WAVE
-        FILE "547994__rico_casazza__footstep-marble.wav"
+        FILE "C:\Users\kcichons\Downloads\547994__rico_casazza__footstep-marble.wav"
       >
     >
   >
   <TRACK {B763F8A4-AEF7-4E7C-857E-415B4F5975B0}
-    NAME 446094__sophiemezam__footsteps3
+    NAME ""
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.98107170553497 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -749,229 +730,5 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 4.25800453514739
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D45D27BD-CD4C-4364-A66A-0C88FB87567E}
-      IID 104
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {946311AF-EBF6-4CCD-9268-27C21B867C6C}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-  >
-  <TRACK {8DA8FABE-AB75-4101-BFE1-B103D0AF5A20}
-    NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 3.90998302151219 0 -1 -1 1
-    MUTESOLO 0 2 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {8DA8FABE-AB75-4101-BFE1-B103D0AF5A20}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C2D32E01-97CC-4F64-A024-0EEF76B7DFCC}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {13938C78-E80F-4A05-8FAF-35DD984F6D7C}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 1
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0D189D9F-0686-48A4-956F-B014C5DA090A}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {82FB7BC3-6DE9-49B9-8F07-EC582018A859}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 2
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5032AC6D-C74E-4471-A408-0CBA6D2A11FA}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 1
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {20D9EDF2-835F-4E76-B311-294BDDE132CA}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 3
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9B871029-2BC9-4784-A26F-822254AA825B}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 1.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {762B2487-4ADA-4828-8B9A-261728A82D8F}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 4
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {41D224E1-B6AF-4F53-9835-83B8BE75AFCC}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BCBD517D-B924-44B2-9B6D-2A38D3699B73}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 5
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {46481633-C04B-470E-97B2-9C0164410CFB}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 2.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0B3BDE64-92CF-42C7-95FD-FAA966E7AEC0}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 6
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {14966291-DBE3-4266-8683-78E7BB784C39}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {92AC4AA7-6ADC-4630-AFB3-B978EE1E1FD1}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-    <ITEM
-      POSITION 7
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5D398B2F-3252-4DBD-86CD-DAB69EE38C38}
-      IID 118
-      NAME 446094__sophiemezam__footsteps3.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2B5FADAD-EB80-4F90-A2F9-3BCAC13271AE}
-      <SOURCE WAVE
-        FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
   >
 >
