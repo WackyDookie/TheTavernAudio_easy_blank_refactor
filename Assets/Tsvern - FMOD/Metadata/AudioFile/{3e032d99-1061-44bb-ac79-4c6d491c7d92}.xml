@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{446d19d9-34a4-41b9-9d44-e590f8c12efd}">
+	<object class="AudioFile" id="{3e032d99-1061-44bb-ac79-4c6d491c7d92}">
 		<property name="assetPath">
-			<value>Tavern/Player/Wood/Ply - Land - Wood.flac</value>
+			<value>Tavern/Player/Stone/Ply - Land - Stone - 3.flac</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
