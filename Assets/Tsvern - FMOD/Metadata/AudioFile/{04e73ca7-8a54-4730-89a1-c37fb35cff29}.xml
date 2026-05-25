@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{04e73ca7-8a54-4730-89a1-c37fb35cff29}">
+		<property name="note" />
 		<property name="assetPath">
 			<value>Tavern/Ambience/Amb - Fire.flac</value>
 		</property>

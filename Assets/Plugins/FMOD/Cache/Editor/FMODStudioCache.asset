@@ -15,10 +15,10 @@ MonoBehaviour:
   Path: Assets/Tsvern - FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639147026694682997
+  lastModified: 639148776303941396
   FileSizes:
   - Name: Desktop
-    Value: 5046144
+    Value: 5046304
   Exists: 1
 --- !u!114 &-4728962373560292025
 MonoBehaviour:
@@ -122,7 +122,7 @@ MonoBehaviour:
     Data4: 1130390329
   Banks:
   - {fileID: -5625703897844012474}
-  IsStream: 0
+  IsStream: 1
   Is3D: 1
   IsOneShot: 0
   Parameters: []
@@ -265,7 +265,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 7214199114102985675}
   cacheVersion: 131859
-  cacheTime: 639147026694706309
+  cacheTime: 639148776303978452
   SerializableEventsDict:
   - key: snapshot:/outside
     index: 0
@@ -493,10 +493,10 @@ MonoBehaviour:
   Path: Assets/Tsvern - FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639147026694706309
+  lastModified: 639148776303978452
   FileSizes:
   - Name: Desktop
-    Value: 1452
+    Value: 1494
   Exists: 1
 --- !u!114 &7745936614498457464
 MonoBehaviour:
