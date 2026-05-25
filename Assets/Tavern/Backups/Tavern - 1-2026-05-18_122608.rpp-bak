@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.69/win64" 1779703280 0
+<REAPER_PROJECT 0.1 "7.69/win64" 1779099968 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -17,9 +17,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 3
-  ZOOM 392.51779035589141 0 0
-  VZOOMEX 6 16
+  CURSOR 0
+  ZOOM 140.75532579320281 0 0
+  VZOOMEX 6 385
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -31,7 +31,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Uzytkownik\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Assets\Tsvern - FMOD\Assets\Tavern\Player\Wood\Ply - Land - Stone - 6.flac"
+  RENDER_FILE "C:\Users\kcichons\Desktop\Tavern\Ambience\Amb - Forest.flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -65,8 +65,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 3.5 3
-  SELECTION2 3.5 3
+  SELECTION 0 7.5
+  SELECTION2 0 7.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -339,14 +339,14 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.41096001966125 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -360,151 +360,67 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 0.5
+      LENGTH 1
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
+      FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0AFC028A-60FA-4219-9104-DB7330DAF286}
-      IID 166
+      IGUID {EA394C8B-C764-4C18-BFA8-739166A46173}
+      IID 26
       NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {109B871E-8872-4F9E-ACD8-5C3BD826D3D0}
+      GUID {AAF33F56-8F5C-441E-9A59-50B55F7CA52A}
       <SOURCE WAVE
         FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-    >
-    <ITEM
-      POSITION 0.5
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {38B2125A-7FAC-4BDB-BEC2-8DA4279AE9EA}
-      IID 166
-      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 1
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1321C252-03BA-47E2-B087-134CF6A881FE}
-      <SOURCE WAVE
-        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
       >
     >
     <ITEM
       POSITION 1
       SNAPOFFS 0
-      LENGTH 0.51
+      LENGTH 1
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E5AA668F-64AD-4F77-BBAD-813C89EDA474}
-      IID 166
+      IGUID {ECB0D5F3-6275-47EC-99C2-C44F47731B95}
+      IID 26
+      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2983E761-13E0-4A74-BB7C-09478432377B}
+      <SOURCE WAVE
+        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C404BA73-5664-405B-8286-41871D8B4FE2}
+      IID 26
       NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
       VOLPAN 1 0 1 -1
       SOFFS 2
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2A7C9492-F6B0-49F1-90A5-44A42D36E1E2}
+      GUID {57A1BF67-C4A8-4944-B339-FEDF61AA3E83}
       <SOURCE WAVE
         FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-    >
-    <ITEM
-      POSITION 1.51
-      SNAPOFFS 0
-      LENGTH 0.99
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AA1CB1E8-BA99-4255-AFFB-8840D2764EF2}
-      IID 166
-      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3.01
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ABF5C332-FDFF-417E-AFBB-A633E2D4DCF9}
-      <SOURCE WAVE
-        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-    >
-    <ITEM
-      POSITION 2.5
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {87EF6F58-7866-4660-935D-C50BF543956A}
-      IID 166
-      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 4.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B5F1D99E-9C28-400B-A4F4-18B30DA4E3F7}
-      <SOURCE WAVE
-        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-    >
-    <ITEM
-      POSITION 3
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {51C71176-B1F5-451C-B567-51F3FA5DA10B}
-      IID 166
-      NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3DA96957-064C-461D-8123-DF4F64DCB6E6}
-      <SOURCE WAVE
-        FILE "813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\813622__securesubset__footsteps-stone-rock-concrete-cement.wav"
       >
     >
   >
@@ -555,9 +471,9 @@
       >
     >
     <ITEM
-      POSITION 1.99999
+      POSITION 1
       SNAPOFFS 0
-      LENGTH 0.00001
+      LENGTH 1
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -568,7 +484,7 @@
       IID 27
       NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 4.49999
+      SOFFS 3.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {6303C483-8052-4F44-9940-ABBEA33E5BA0}
@@ -601,7 +517,7 @@
     <ITEM
       POSITION 3
       SNAPOFFS 0
-      LENGTH 0.00001
+      LENGTH 1
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -863,14 +779,13 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 3.90998302151219 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
@@ -958,14 +873,14 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {14966291-DBE3-4266-8683-78E7BB784C39}
+      IGUID {9B871029-2BC9-4784-A26F-822254AA825B}
       IID 118
       NAME 446094__sophiemezam__footsteps3.wav
       VOLPAN 1 0 1 -1
-      SOFFS 3
+      SOFFS 1.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {92AC4AA7-6ADC-4630-AFB3-B978EE1E1FD1}
+      GUID {762B2487-4ADA-4828-8B9A-261728A82D8F}
       <SOURCE WAVE
         FILE "446094__sophiemezam__footsteps3.wav"
       >
@@ -1024,6 +939,28 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
+      IGUID {14966291-DBE3-4266-8683-78E7BB784C39}
+      IID 118
+      NAME 446094__sophiemezam__footsteps3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92AC4AA7-6ADC-4630-AFB3-B978EE1E1FD1}
+      <SOURCE WAVE
+        FILE "446094__sophiemezam__footsteps3.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
       IGUID {5D398B2F-3252-4DBD-86CD-DAB69EE38C38}
       IID 118
       NAME 446094__sophiemezam__footsteps3.wav
@@ -1034,207 +971,6 @@
       GUID {2B5FADAD-EB80-4F90-A2F9-3BCAC13271AE}
       <SOURCE WAVE
         FILE "446094__sophiemezam__footsteps3.wav"
-      >
-    >
-  >
-  <TRACK {FC76E78E-7838-4724-A4A8-DFA9E4636F23}
-    NAME 413911__felixblume__rythmic-footsteps-over-wood-floor
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {FC76E78E-7838-4724-A4A8-DFA9E4636F23}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2F1C1ADC-7910-4D16-8777-AC972FCDC8B9}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 1.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C6791B96-C776-4498-8241-CE9C148464CE}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 1.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F04654ED-7341-4175-9441-334B70793650}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 4.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A9C34CC9-A92A-48C2-95AE-74575AD80C15}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 3
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4F589666-F052-4C02-AF68-CDE753B87EC8}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 11
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F7E5B72D-EF0F-4E2A-A163-CE9B2B4B9DDC}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 4.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4B0D3994-BE79-4BF0-86E3-3597CCE10C86}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 23.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C4415FDE-9373-4FDC-BAF6-8E7C6103B77D}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 6
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F8B5E177-0BEA-4C93-A57E-510096BBC86A}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 17
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {08EE3EAB-84EE-4C89-BAEB-9F96D3591C39}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 7.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C9AD9382-1FC9-43B6-9690-4AB382FB005B}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 20.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {892B9FFE-655C-4AF8-B21E-A478261AFECB}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
-    <ITEM
-      POSITION 18.5
-      SNAPOFFS 0
-      LENGTH 28.546875
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {558CA20D-75DD-4AAD-BEE1-C80CB6A5A7D5}
-      IID 126
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 25
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C63F48E6-DEEF-4644-884E-3EB60D713E34}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME "C:\Users\Uzytkownik\Desktop\Tavern Reaper\413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
       >
     >
   >
