@@ -1,12 +1,11 @@
-<REAPER_PROJECT 0.1 "7.69/win64" 1779703280 0
+<REAPER_PROJECT 0.1 "6.81/win64" 1779809915
   <NOTES 0 2
   >
-  RIPPLE 0 0
-  GROUPOVERRIDE 0 0 0 0
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
-  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -14,12 +13,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1 0
+  TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 3
-  ZOOM 392.51779035589141 0 0
-  VZOOMEX 6 16
+  CURSOR 9
+  ZOOM 198.12061739150283 984 0
+  VZOOMEX 6 264
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -31,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Uzytkownik\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Assets\Tsvern - FMOD\Assets\Tavern\Player\Wood\Ply - Land - Stone - 6.flac"
+  RENDER_FILE "C:\Users\kcichons\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Assets\Tavern\Player\Wood\Ply - Foot - Wood - 6.flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -39,7 +38,6 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
-  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -52,26 +50,22 @@
   LOCK 1
   <METRONOME 6 2
     VOL 0.25 0.125
-    BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" "" "" ""
-    SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0 ""
-    SPLDEF 3 440 "" 0 ""
+    BEATLEN 4
+    SAMPLES "" ""
     PATTERN 0 169
-    PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4 0
+  TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 3.5 3
-  SELECTION2 3.5 3
+  SELECTION 9.5 9
+  SELECTION2 9.5 9
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -94,9 +88,6 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
-  RULERHEIGHT 86 86
-  RULERLANE 1 4 "" 0 -1
-  RULERLANE 2 8 "" 0 -1
   <PROJBAY
   >
   <TRACK {6FC5FE3D-6DE7-4F14-8946-DBDA6B2D48B3}
@@ -110,12 +101,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -157,12 +147,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -231,12 +220,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -244,28 +232,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 0.01
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.01 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70D7F708-81A5-42BA-A654-DD90C62BC900}
-      IID 25
-      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {99425DBE-820D-4851-B0EC-FCD4A7E4B23F}
-      <SOURCE WAVE
-        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
-      >
-    >
     <ITEM
       POSITION 0.5
       SNAPOFFS 0
@@ -284,6 +250,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {5F807BB7-48D5-4739-82A7-6C8B3545EFEB}
+      <SOURCE WAVE
+        FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.50999
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.01 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70D7F708-81A5-42BA-A654-DD90C62BC900}
+      IID 25
+      NAME 413911__felixblume__rythmic-footsteps-over-wood-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.49999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99425DBE-820D-4851-B0EC-FCD4A7E4B23F}
       <SOURCE WAVE
         FILE "413911__felixblume__rythmic-footsteps-over-wood-floor.wav"
       >
@@ -339,17 +327,16 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.41096001966125 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 1
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -491,7 +478,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {51C71176-B1F5-451C-B567-51F3FA5DA10B}
       IID 166
       NAME 813622__securesubset__footsteps-stone-rock-concrete-cement.wav
@@ -519,12 +506,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -560,8 +546,8 @@
       LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {B4C62CAE-3A3C-4009-8FF2-1D0896ACD833}
@@ -604,8 +590,8 @@
       LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {DCAD86B0-7769-44A5-BE99-9D335F272C49}
@@ -632,12 +618,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -679,12 +664,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -721,17 +705,16 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 3.98107170553497 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -742,7 +725,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 38.78
+      LENGTH 1.30009070294785
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -761,6 +744,204 @@
         FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
       >
     >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FF6BCF9-E4C9-486A-9071-362E66BEA386}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFD54050-65F4-4458-92E0-E023018AC1B0}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.69990929705215
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2E0CE40-4BE4-4042-AE03-19A6157B393F}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9772091F-7441-4728-B753-211103013B2A}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD142479-D6D6-4D98-833C-F58B53BBF060}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.69990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9CBB427-E6EE-4A4E-B4D7-DFB9CB45BADD}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0B593CC-91B0-4540-8C3A-91692D2E46F6}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6.69990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A2B036F-DA2D-419D-ACFF-2C26A88DD245}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33A4C0AD-87F3-460C-BF17-B60C62BF23E6}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7.69990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {164835CC-975C-4127-804D-CCD04B2D02BD}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18EEFF37-702C-4E65-8C61-070BB2567C35}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.69990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE68E54D-C5F8-4871-AAAE-6BCCF11D0EAF}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52620888-499D-4C22-AA08-14E19A3CA3EC}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.19990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9713B9A-A03D-44E0-8824-922769A6C522}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0464377F-5DCD-4E59-9681-F178E8A9EC3E}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.19990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27EE7E5F-25DE-4E35-A21D-94B9DBF0E8A7}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 26.08009070294785
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CCC613DF-5B28-4CEC-9EBA-59862D10A8DB}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.69990929705215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3772B9C5-6B0E-4A41-B939-721EBBC50F97}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
   >
   <TRACK {0D42B855-8DA0-4849-A1AB-7364E1038C8D}
     NAME 547994__rico_casazza__footstep-marble
@@ -773,12 +954,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -820,12 +1000,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -855,6 +1034,28 @@
         FILE "446094__sophiemezam__footsteps3.wav"
       >
     >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 1.69990929705215
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8BE6D14-E8C5-4904-AF2E-FFF1B44AC215}
+      IID 102
+      NAME 547993__rico_casazza__footstep-on-wooden-floor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.30009070294785
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BB282F0-4992-40CF-B385-A662D28C7CE8}
+      <SOURCE WAVE
+        FILE "547993__rico_casazza__footstep-on-wooden-floor.wav"
+      >
+    >
   >
   <TRACK {8DA8FABE-AB75-4101-BFE1-B103D0AF5A20}
     NAME 530383__nox_sound__footsteps_boots_gritty_ground_woods_barks_mono
@@ -868,13 +1069,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    LANEREC -1 -1 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1049,12 +1248,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
