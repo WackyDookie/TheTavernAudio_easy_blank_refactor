@@ -147,10 +147,15 @@ public class Footsteps : MonoBehaviour
             case "Outside": // "Outside" również używa parametru "Stone"
                 surfaceParameter = "stone";
                 break;
-            
             case "Wood":
             case "Inside_wood":
                 surfaceParameter = "wood";
+                break;
+            case "Wood_stairs":
+                surfaceParameter = "stairs";
+                break;
+            case "Chandelier":
+                surfaceParameter = "chandelier";
                 break;
         }
 

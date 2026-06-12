@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{76e36af2-6c3e-40bf-9aa9-53e5423d01ba}">
+		<property name="assetPath">
+			<value>Ply - Foot - Chandelier - 1.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70c05bd6-8d93-4dc6-b2b8-648e73fbab01}</destination>
+		</relationship>
+	</object>
+</objects>
